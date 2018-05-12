@@ -1,1 +1,1 @@
-# bug-bounty-101
+# Bug Bounty 101

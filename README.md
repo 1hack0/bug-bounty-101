@@ -9,7 +9,7 @@
 - [WooYun WiKi](http://wiki.secbug.net/)
 - [Hacking Resources](https://www.torontowebsitedeveloper.com/hacking-resources)
 - [List of Facebook Bug Bounties ](https://www.facebook.com/notes/phwd/facebook-bug-bounties/707217202701640/)
-- [https://github.com/ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
+- [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
 - [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)`
 
 ### Get Started

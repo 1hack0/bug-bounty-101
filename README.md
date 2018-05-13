@@ -5,6 +5,13 @@
 - [From Open Redirect to Account Takeover](http://www.ninoishere.com/from-open-redirect-to-account-takeover/)
 - [From Open Redirect to Account Takeover Part II](http://www.ninoishere.com/from-open-redirect-to-account-takeover-part-ii/)
 
+### OAuth/SAML
+- [从“黑掉GITHUB”学WEB安全开发](https://coolshell.cn/articles/11021.html)
+- [看我如何综合利用3个安全问题成功劫持Flickr账户获得7千美元漏洞赏金](http://www.freebuf.com/articles/web/133848.html)
+- [我如何挖到了一个价值8000美金的Uber漏洞](http://www.freebuf.com/vuls/139021.html)
+- [如何利用OAuth错误配置接管Flickr账号](http://www.freebuf.com/articles/web/150550.html)
+- [看我如何利用SAML漏洞实现Uber内部聊天系统未授权登录](http://www.freebuf.com/news/147086.html)
+
 ### CRLF Injection
 - [科普 | 什么是CRLF注入攻击？](https://zhuanlan.zhihu.com/p/22953209)
 
@@ -27,6 +34,8 @@
 ### CORS
 - [跨域资源共享(CORS)安全性浅析](http://www.freebuf.com/articles/web/18493.html)
 - [看我如何绕过Yahoo！View的CORS限制策略](http://www.freebuf.com/articles/web/158529.html)
+- [看我如何利用两个漏洞实现雅虎邮箱通讯录信息获取](http://www.freebuf.com/news/160917.html)
+- [看我如何发现价值$10000美金的雅虎Cookie窃取漏洞](http://www.freebuf.com/vuls/159470.html)
 
 ### JSONP Injection
 - [JSONP注入解析](http://www.freebuf.com/articles/web/126347.html)
@@ -39,27 +48,35 @@
 - [我如何找到了Facebook广告服务的信息泄漏漏洞（奖金高达10000美刀）](http://www.freebuf.com/articles/web/138292.html)
 
 ### Insecure Direct Object References(IDOR)
+- [不安全的直接对象引用漏洞入门指南](www.freebuf.com/news/139375.html)
+- [获取乘客和车主的个人信息？这记Uber逻辑漏洞“组合拳”值得一看](http://www.freebuf.com/vuls/107881.html)
+- [我是如何挖掘热门“约P软件”漏洞的](http://www.freebuf.com/articles/web/157391.html)
+- [看我如何接管OLX的每一条广告](http://www.freebuf.com/vuls/152047.html)
+- [十秒内黑掉Facebook主页？这个漏洞竟然价值1.6万美金（含漏洞分析）](http://www.freebuf.com/news/114727.html)
+- [价值$10000美金的Facebook任意图片删除漏洞](http://www.freebuf.com/vuls/155582.html)
+
+### Logic Vulnerabilities
+- [Web安全测试中常见逻辑漏洞解析（实战篇）](http://www.freebuf.com/vuls/112339.html)
 
 ### Template Injection
 - [服务端模板注入攻击(SSTI)之浅析](http://www.freebuf.com/vuls/83999.html)
 
+### Sub Domain Takeover
+- [看我如何通过子域名接管绕过Uber单点登录认证机制](http://www.freebuf.com/news/141630.html)
+
 ### Server Side Request Forgery
+- [\[安全科普\]SSRF攻击实例解析](http://www.freebuf.com/vuls/136603.html)
 
 ### XML External Entity Vulnerability
+- [看我如何发现Uber合作方网站XXE 0day漏洞并获得9000美元赏金](http://www.freebuf.com/vuls/126603.html)
 
 ### Remote Code Execution
-
-### Memory
-
-### Sub Domain Takeover
+- [Yahoo Bug Bounty Part 2 - *.login.yahoo.com Remote Code Execution 遠端代碼執行漏洞](http://blog.orange.tw/2013/11/yahoo-bug-bounty-part-2-loginyahoocom.html)
+- [滲透 Facebook 的思路與發現](https://devco.re/blog/2016/04/21/how-I-hacked-facebook-and-found-someones-backdoor-script/)
+- [看我如何找到雅虎的远程代码执行漏洞并获得5500刀奖金](http://www.freebuf.com/vuls/136603.html)
+- [BlackHat 2017 议题剖析】连接的力量：GitHub 企业版漏洞攻击链构造之旅](https://paper.seebug.org/363/)
 
 ### Race Conditions
+- [测试Web应用程序中的竞争条件](http://www.freebuf.com/articles/network/107077.html)
 
-### OAuth
-- [从“黑掉GITHUB”学WEB安全开发](https://coolshell.cn/articles/11021.html)
-- [看我如何综合利用3个安全问题成功劫持Flickr账户获得7千美元漏洞赏金](http://www.freebuf.com/articles/web/133848.html)
-- [我如何挖到了一个价值8000美金的Uber漏洞](http://www.freebuf.com/vuls/139021.html)
-- [如何利用OAuth错误配置接管Flickr账号](http://www.freebuf.com/articles/web/150550.html)
-
-### Application Logic Vulnerabilities
 

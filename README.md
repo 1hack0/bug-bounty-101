@@ -10,7 +10,7 @@
 - [Hacking Resources](https://www.torontowebsitedeveloper.com/hacking-resources)
 - [List of Facebook Bug Bounties ](https://www.facebook.com/notes/phwd/facebook-bug-bounties/707217202701640/)
 - [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
-- [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)`
+- [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
 
 ### Get Started
 - [HOW TO BECOME A SUCCESSFUL BUG BOUNTY HUNTER](https://www.hackerone.com/blog/become-a-successful-bug-bounty-hunter)

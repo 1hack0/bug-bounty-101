@@ -1,5 +1,24 @@
 # Bug Bounty 101
 
+### Recon
+- [渗透测试教程：如何侦查目标以及收集信息？](http://www.4hou.com/penetration/6850.html)
+- [如何高效的进行子域名收集与筛选？](http://www.4hou.com/vulnerable/6713.html)
+- [渗透测试工程师子域名收集指南](http://www.4hou.com/technology/8535.html)
+
+### Resources
+- [WooYun WiKi](http://wiki.secbug.net/)
+- [Hacking Resources](https://www.torontowebsitedeveloper.com/hacking-resources)
+- [List of Facebook Bug Bounties ](https://www.facebook.com/notes/phwd/facebook-bug-bounties/707217202701640/)
+- [https://github.com/ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
+- [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)`
+
+### Get Started
+- [HOW TO BECOME A SUCCESSFUL BUG BOUNTY HUNTER](https://www.hackerone.com/blog/become-a-successful-bug-bounty-hunter)
+- [USEFUL ONLINE RESOURCES FOR NEW HACKERS](https://www.hackerone.com/blog/resources-for-new-hackers)
+- [AMA with bug bounty hunters](https://bugbountyforum.com/ama/)
+- [白帽笔记：我的“一日一洞”高效漏洞挖掘之旅](http://www.freebuf.com/articles/web/111139.html)
+- [白帽采访 | 对话台湾漏洞挖掘达人Orange Tsai](http://www.freebuf.com/column/165736.html)
+
 ### Open Redirect Vulnerabilities
 - [zseano 漏洞赏金猎人系列教程 开放URL重定向](http://blkstone.github.io/2017/12/25/bug-hunter-tutorial-zseano/)
 - [From Open Redirect to Account Takeover](http://www.ninoishere.com/from-open-redirect-to-account-takeover/)
@@ -22,8 +41,9 @@
 - [雅虎邮箱存储型XSS漏洞，黑客能看任何人的邮件](http://www.freebuf.com/vuls/122455.html)
 - [BBP系列一 人生第一个值钱的XSS漏洞](http://zhchbin.github.io/2016/09/10/A-Valuable-XSS/)
 - [BBP系列二 Uber XSS via Cookie](http://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/)
+- [Uber中的DOM XSS漏洞分析](https://www.anquanke.com/post/id/87286)
 
-### Cross Site Script Inclusion(XSSI)
+### Cross-Site Script Inclusion(XSSI)
 - [揭开XSSI攻击的神秘面纱](http://www.freebuf.com/articles/web/87374.html)
 
 ### Cross-Site WebSocket Hijacking (CSWSH)
@@ -60,12 +80,15 @@
 
 ### Template Injection
 - [服务端模板注入攻击(SSTI)之浅析](http://www.freebuf.com/vuls/83999.html)
+- [Yahoo Spring Engine SSTI 远程代码执行漏洞挖掘](http://www.4hou.com/vulnerable/9779.html)
 
 ### Sub Domain Takeover
 - [看我如何通过子域名接管绕过Uber单点登录认证机制](http://www.freebuf.com/news/141630.html)
 
 ### Server Side Request Forgery
 - [\[安全科普\]SSRF攻击实例解析](http://www.freebuf.com/vuls/136603.html)
+- [SSRF漏洞详解](http://feei.cn/ssrf)
+- [微博某处SSRF可GET SHELL](http://feei.cn/PVE-2016081601)
 
 ### XML External Entity Vulnerability
 - [看我如何发现Uber合作方网站XXE 0day漏洞并获得9000美元赏金](http://www.freebuf.com/vuls/126603.html)
@@ -78,5 +101,3 @@
 
 ### Race Conditions
 - [测试Web应用程序中的竞争条件](http://www.freebuf.com/articles/network/107077.html)
-
-

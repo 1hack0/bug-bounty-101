@@ -20,6 +20,7 @@
 - [白帽采访 | 对话台湾漏洞挖掘达人Orange Tsai](http://www.freebuf.com/column/165736.html)
 
 ### Open Redirect Vulnerabilities
+- [URL whitelist Bypass](https://joychou.org/web/url-whitelist-bypass.html)
 - [zseano 漏洞赏金猎人系列教程 开放URL重定向](http://blkstone.github.io/2017/12/25/bug-hunter-tutorial-zseano/)
 - [From Open Redirect to Account Takeover](http://www.ninoishere.com/from-open-redirect-to-account-takeover/)
 - [From Open Redirect to Account Takeover Part II](http://www.ninoishere.com/from-open-redirect-to-account-takeover-part-ii/)
@@ -36,6 +37,7 @@
 
 ### Cross-Site Request Forgery(CSRF)
 - [Neat tricks to bypass CSRF-protection](https://zhuanlan.zhihu.com/p/32716181)
+- [Exploiting JSON CSRF](https://joychou.org/web/exploiting-json-csrf.html)
 
 ### Cross-Site Scripting(XSS)
 - [雅虎邮箱存储型XSS漏洞，黑客能看任何人的邮件](http://www.freebuf.com/vuls/122455.html)

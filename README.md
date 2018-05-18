@@ -18,6 +18,7 @@
 - [AMA with bug bounty hunters](https://bugbountyforum.com/ama/)
 - [白帽笔记：我的“一日一洞”高效漏洞挖掘之旅](http://www.freebuf.com/articles/web/111139.html)
 - [白帽采访 | 对话台湾漏洞挖掘达人Orange Tsai](http://www.freebuf.com/column/165736.html)
+- [HITCON 2016 投影片 - Bug Bounty 獎金獵人甘苦談 那些年我回報過的漏洞](http://blog.orange.tw/2016/07/hitcon-2016-slides-bug-bounty-hunter.html)
 
 ### Open Redirect Vulnerabilities
 - [URL whitelist Bypass](https://joychou.org/web/url-whitelist-bypass.html)
@@ -99,7 +100,7 @@
 - [Yahoo Bug Bounty Part 2 - *.login.yahoo.com Remote Code Execution 遠端代碼執行漏洞](http://blog.orange.tw/2013/11/yahoo-bug-bounty-part-2-loginyahoocom.html)
 - [滲透 Facebook 的思路與發現](https://devco.re/blog/2016/04/21/how-I-hacked-facebook-and-found-someones-backdoor-script/)
 - [看我如何找到雅虎的远程代码执行漏洞并获得5500刀奖金](http://www.freebuf.com/vuls/136603.html)
-- [BlackHat 2017 议题剖析】连接的力量：GitHub 企业版漏洞攻击链构造之旅](https://paper.seebug.org/363/)
+- [【BlackHat 2017 议题剖析】连接的力量：GitHub 企业版漏洞攻击链构造之旅](https://paper.seebug.org/363/)
 
 ### Race Conditions
 - [测试Web应用程序中的竞争条件](http://www.freebuf.com/articles/network/107077.html)

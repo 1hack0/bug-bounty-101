@@ -19,6 +19,8 @@
 - [白帽笔记：我的“一日一洞”高效漏洞挖掘之旅](http://www.freebuf.com/articles/web/111139.html)
 - [白帽采访 | 对话台湾漏洞挖掘达人Orange Tsai](http://www.freebuf.com/column/165736.html)
 - [HITCON 2016 投影片 - Bug Bounty 獎金獵人甘苦談 那些年我回報過的漏洞](http://blog.orange.tw/2016/07/hitcon-2016-slides-bug-bounty-hunter.html)
+- [Bug Bounty Methodologies in a Maturing Ecosystem - Jack Cable @ THOTCON](https://www.slideshare.net/JackCable1/bug-bounty-methodologies-in-a-maturing-ecosystem-jack-cable-thotcon-96117852?from_action=save)
+- [Hacking WebApps for fun and profit : how to approach a target?](https://www.slideshare.net/YAboukir1/hacking-webapps-for-fun-and-profit-how-to-approach-a-target)
 
 ### Open Redirect Vulnerabilities
 - [URL whitelist Bypass](https://joychou.org/web/url-whitelist-bypass.html)

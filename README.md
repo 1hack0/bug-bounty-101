@@ -83,6 +83,15 @@
 ### Logic Vulnerabilities
 - [Web安全测试中常见逻辑漏洞解析（实战篇）](http://www.freebuf.com/vuls/112339.html)
 
+### Command Injection
+- [挖洞姿势：浅析命令注入漏洞](http://www.freebuf.com/vuls/139924.html)
+- [挖洞经验 | 看我如何发现Google云开发功能命令注入漏洞（$6000）](http://www.freebuf.com/articles/web/164920.html)
+
+### Host Header Attack
+- [利用HTTP host头攻击的技术](http://drops.xmd5.com/static/drops/papers-1383.html)
+- [挖洞经验 | 价值1万美金的谷歌内部主机信息泄露漏洞](http://www.freebuf.com/vuls/143959.html)
+- [林林总总的Host Header Attack](https://mp.weixin.qq.com/s?__biz=MzI2NjUwNjU4OA==&mid=2247483858&idx=1&sn=2170052e99a41de3f98a6f1729dba764&chksm=ea8c59e1ddfbd0f7267095ae6da027661993b9d98b06a7d3d1f4c5e11a42cfa741ed7b21826b&scene=0)
+
 ### Template Injection
 - [服务端模板注入攻击(SSTI)之浅析](http://www.freebuf.com/vuls/83999.html)
 - [Yahoo Spring Engine SSTI 远程代码执行漏洞挖掘](http://www.4hou.com/vulnerable/9779.html)

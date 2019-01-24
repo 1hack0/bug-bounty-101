@@ -18,6 +18,7 @@
 - [AMA with bug bounty hunters](https://bugbountyforum.com/ama/)
 - [白帽笔记：我的“一日一洞”高效漏洞挖掘之旅](http://www.freebuf.com/articles/web/111139.html)
 - [白帽采访 | 对话台湾漏洞挖掘达人Orange Tsai](http://www.freebuf.com/column/165736.html)
+- [白帽采访 | 对话香港HackerOne白帽Ron Chan - FreeBuf互联网安全新媒体平台](https://www.freebuf.com/articles/people/178671.html)
 - [HITCON 2016 投影片 - Bug Bounty 獎金獵人甘苦談 那些年我回報過的漏洞](http://blog.orange.tw/2016/07/hitcon-2016-slides-bug-bounty-hunter.html)
 - [Bug Bounty Methodologies in a Maturing Ecosystem - Jack Cable @ THOTCON](https://www.slideshare.net/JackCable1/bug-bounty-methodologies-in-a-maturing-ecosystem-jack-cable-thotcon-96117852?from_action=save)
 - [Hacking WebApps for fun and profit : how to approach a target?](https://www.slideshare.net/YAboukir1/hacking-webapps-for-fun-and-profit-how-to-approach-a-target)
@@ -46,7 +47,10 @@
 - [雅虎邮箱存储型XSS漏洞，黑客能看任何人的邮件](http://www.freebuf.com/vuls/122455.html)
 - [BBP系列一 人生第一个值钱的XSS漏洞](http://zhchbin.github.io/2016/09/10/A-Valuable-XSS/)
 - [BBP系列二 Uber XSS via Cookie](http://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/)
+- [\[BBP系列三\] Hijack the JS File of Uber's Website](http://zhchbin.github.io/2018/12/03/Hijack-the-JS-File-of-Uber-s-Website/)
 - [Uber中的DOM XSS漏洞分析](https://www.anquanke.com/post/id/87286)
+- [挖洞经验 | Oculus CDN服务器的XSS漏洞](https://www.freebuf.com/vuls/191905.html)
+- [挖洞经验 | Facebook CDN服务器的XSS漏洞](https://www.freebuf.com/vuls/191898.html)
 
 ### Cross-Site Script Inclusion(XSSI)
 - [揭开XSSI攻击的神秘面纱](http://www.freebuf.com/articles/web/87374.html)
@@ -58,6 +62,8 @@
 
 ### CORS
 - [跨域资源共享(CORS)安全性浅析](http://www.freebuf.com/articles/web/18493.html)
+- [如何利用CORS配置错误漏洞攻击比特币交易所 - 先知社区](https://xz.aliyun.com/t/2702)
+- [cors安全完全指南 - 先知社区](https://xz.aliyun.com/t/2745)
 - [看我如何绕过Yahoo！View的CORS限制策略](http://www.freebuf.com/articles/web/158529.html)
 - [看我如何利用两个漏洞实现雅虎邮箱通讯录信息获取](http://www.freebuf.com/news/160917.html)
 - [看我如何发现价值$10000美金的雅虎Cookie窃取漏洞](http://www.freebuf.com/vuls/159470.html)
@@ -82,6 +88,7 @@
 
 ### Logic Vulnerabilities
 - [Web安全测试中常见逻辑漏洞解析（实战篇）](http://www.freebuf.com/vuls/112339.html)
+- [挖洞经验 | Facebook商务平台商家管理员账户添加漏洞（ $27,500）](https://www.freebuf.com/vuls/189872.html)
 
 ### Command Injection
 - [挖洞姿势：浅析命令注入漏洞](http://www.freebuf.com/vuls/139924.html)
@@ -100,7 +107,7 @@
 - [看我如何通过子域名接管绕过Uber单点登录认证机制](http://www.freebuf.com/news/141630.html)
 
 ### Server Side Request Forgery
-- [\[安全科普\]SSRF攻击实例解析](http://www.freebuf.com/vuls/136603.html)
+- [\[安全科普\]SSRF攻击实例解析](https://www.freebuf.com/articles/web/20407.html)
 - [SSRF漏洞详解](http://feei.cn/ssrf)
 - [微博某处SSRF可GET SHELL](http://feei.cn/PVE-2016081601)
 
@@ -112,6 +119,8 @@
 - [滲透 Facebook 的思路與發現](https://devco.re/blog/2016/04/21/how-I-hacked-facebook-and-found-someones-backdoor-script/)
 - [看我如何找到雅虎的远程代码执行漏洞并获得5500刀奖金](http://www.freebuf.com/vuls/136603.html)
 - [【BlackHat 2017 议题剖析】连接的力量：GitHub 企业版漏洞攻击链构造之旅](https://paper.seebug.org/363/)
+- [挖洞经验 | 看我如何发现Facebook的$5000美金漏洞](https://www.freebuf.com/articles/web/182500.html)
+- [围观orange大佬在Amazon内部协作系统上实现RCE](https://www.anquanke.com/post/id/156078)
 
 ### Race Conditions
 - [测试Web应用程序中的竞争条件](http://www.freebuf.com/articles/network/107077.html)

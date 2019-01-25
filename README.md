@@ -47,7 +47,7 @@
 - [雅虎邮箱存储型XSS漏洞，黑客能看任何人的邮件](http://www.freebuf.com/vuls/122455.html)
 - [BBP系列一 人生第一个值钱的XSS漏洞](http://zhchbin.github.io/2016/09/10/A-Valuable-XSS/)
 - [BBP系列二 Uber XSS via Cookie](http://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/)
-- [\[BBP系列三\] Hijack the JS File of Uber's Website](http://zhchbin.github.io/2018/12/03/Hijack-the-JS-File-of-Uber-s-Website/)
+- [BBP系列三 Hijack the JS File of Uber's Website](http://zhchbin.github.io/2018/12/03/Hijack-the-JS-File-of-Uber-s-Website/)
 - [Uber中的DOM XSS漏洞分析](https://www.anquanke.com/post/id/87286)
 - [挖洞经验 | Oculus CDN服务器的XSS漏洞](https://www.freebuf.com/vuls/191905.html)
 - [挖洞经验 | Facebook CDN服务器的XSS漏洞](https://www.freebuf.com/vuls/191898.html)
